@@ -1,0 +1,10 @@
+C:\Users\USER\documents\visual studio 2010\Projects\api_mahasiswa\api_mahasiswa\bin\Debug\api_mahasiswa.exe
+C:\Users\USER\documents\visual studio 2010\Projects\api_mahasiswa\api_mahasiswa\bin\Debug\api_mahasiswa.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\api_mahasiswa\api_mahasiswa\bin\Debug\api_mahasiswa.xml
+C:\Users\USER\documents\visual studio 2010\Projects\api_mahasiswa\api_mahasiswa\obj\x86\Debug\api_mahasiswa.Form1.resources
+C:\Users\USER\documents\visual studio 2010\Projects\api_mahasiswa\api_mahasiswa\obj\x86\Debug\api_mahasiswa.Resources.resources
+C:\Users\USER\documents\visual studio 2010\Projects\api_mahasiswa\api_mahasiswa\obj\x86\Debug\api_mahasiswa.vbproj.GenerateResource.Cache
+C:\Users\USER\documents\visual studio 2010\Projects\api_mahasiswa\api_mahasiswa\obj\x86\Debug\api_mahasiswa.exe
+C:\Users\USER\documents\visual studio 2010\Projects\api_mahasiswa\api_mahasiswa\obj\x86\Debug\api_mahasiswa.xml
+C:\Users\USER\documents\visual studio 2010\Projects\api_mahasiswa\api_mahasiswa\obj\x86\Debug\api_mahasiswa.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\api_mahasiswa\api_mahasiswa\bin\Debug\api_mahasiswa.exe.config
